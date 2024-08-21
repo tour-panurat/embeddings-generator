@@ -1,4 +1,4 @@
-# Supabase Embeddings Generator
+# Supabase Embeddings Generator2
 
 A GitHub Action that converts your markdown files into embeddings and stores them in your Postgres/Supabase database, allowing you to perform vector similarity search inside your documentation and website.
 
