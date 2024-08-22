@@ -3,7 +3,7 @@
 An enterprise-class UI design language and React UI library.
 
 
-## ✨ Features
+## Features
 
 - 🌈 Enterprise-class UI designed for web applications.
 - 📦 A set of high-quality React components out of the box.
@@ -12,13 +12,13 @@ An enterprise-class UI design language and React UI library.
 - 🌍 Internationalization support for dozens of languages.
 - 🎨 Powerful theme customization based on CSS-in-JS.
 
-## 🖥 Environment Support
+## Environment Support
 
 - Modern browsers
 - Server-side Rendering
 - [Electron](https://www.electronjs.org/)
 
-## 📦 Install
+## Install
 
 ```bash
 npm install antd
@@ -32,7 +32,7 @@ yarn add antd
 pnpm add antd
 ```
 
-## 🔨 Usage
+## Usage
 
 ```tsx
 import { Button, DatePicker } from 'antd';
@@ -45,7 +45,7 @@ export default () => (
 );
 ```
 
-## 🔗 Links
+## Links
 
 - [Home page](https://ant.design/)
 - [Components Overview](https://ant.design/components/overview)
@@ -68,7 +68,7 @@ export default () => (
 - [Customize Theme](https://ant.design/docs/react/customize-theme)
 - [How to Apply for Being A Collaborator](https://github.com/ant-design/ant-design/wiki/Collaborators#how-to-apply-for-being-a-collaborator)
 
-## ⌨️ Development
+## Development
 
 Use Gitpod, a free online dev environment for GitHub.
 
@@ -89,7 +89,7 @@ $ npm start
 
 Open your browser and visit http://127.0.0.1:8001 , see more at [Development](https://github.com/ant-design/ant-design/wiki/Development).
 
-## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+## Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 Let's build a better antd together.
 
@@ -99,7 +99,7 @@ For collaborators, adhere to our [Pull Request Principle](https://github.com/ant
 
 [![Let's fund issues in this repository](https://raw.githubusercontent.com/BoostIO/issuehunt-materials/master/v1/issuehunt-button-v1.svg)](https://issuehunt.io/repos/34526884)
 
-## ❤️ Sponsors and Backers [![](https://opencollective.com/ant-design/tiers/sponsors/badge.svg?label=Sponsors&color=brightgreen)](https://opencollective.com/ant-design#support) [![](https://opencollective.com/ant-design/tiers/backers/badge.svg?label=Backers&color=brightgreen)](https://opencollective.com/ant-design#support)
+## Sponsors and Backers [![](https://opencollective.com/ant-design/tiers/sponsors/badge.svg?label=Sponsors&color=brightgreen)](https://opencollective.com/ant-design#support) [![](https://opencollective.com/ant-design/tiers/backers/badge.svg?label=Backers&color=brightgreen)](https://opencollective.com/ant-design#support)
 
 [![](https://opencollective.com/ant-design/tiers/sponsors.svg?avatarHeight=36)](https://opencollective.com/ant-design#support)
 
