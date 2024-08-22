@@ -16,10 +16,10 @@ Welcome to the official website of Heng Leasing! This site provides comprehensiv
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: [Specify backend technology, e.g., Node.js, PHP, etc.]
-- **Database**: [Specify database, e.g., MySQL, MongoDB, etc.]
-- **Hosting**: [Specify hosting service, e.g., AWS, Heroku, etc.]
-- **APIs**: [List any APIs integrated into the site]
+- **Backend**: Node.js
+- **Database**: MySQL
+- **Hosting**: Azure
+- **APIs**: heng api
 
 ## How to Access
 
@@ -39,15 +39,15 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ## License
 
-[Include licensing information here, if applicable.]
+heng leasing
 
 ## Contact
 
 For any inquiries or support, please contact us at:
 
 - **Email**: support@hengleasing.com
-- **Phone**: [Include phone number]
-- **Address**: [Include physical address, if applicable]
+- **Phone**: 0922222222
+- **Address**: 999 test 123
 
 ---
 
